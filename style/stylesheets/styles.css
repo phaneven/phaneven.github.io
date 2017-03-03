@@ -1,0 +1,13 @@
+body {
+    padding-top: 51px;
+}
+.navbar {
+    margin-bottom: 0px;
+    border-radius: 0px;
+}
+
+footer {
+    margin-top: 100px;
+    background-color: black;
+    padding: 25px;
+}
